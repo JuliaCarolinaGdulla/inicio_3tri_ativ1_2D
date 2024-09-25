@@ -2,12 +2,13 @@ body{background-color: burlywood;}
 h1{text-align:center ;
 color: saddlebrown;
 border-style: double;
-border-width: 10px;}
+border-width: 10px;
+background-color: darkkhaki;}
 
 h2{color: saddlebrown;
 margin-left: 43%;
 border-style: double;
-margin-right: 44%;}
+margin-right: 44%;;}
 
 h3{color: saddlebrown;}
 
