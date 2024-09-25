@@ -3,7 +3,7 @@ h1{text-align:center ;
 color: saddlebrown;
 border-style: double;
 border-width: 10px;
-background-color: darkkhaki;}
+background-color: darksalmon;}
 
 h2{color: saddlebrown;
 margin-left: 43%;
@@ -14,7 +14,11 @@ background-color: darksalmon;}
 h3{color: saddlebrown;}
 
 #ima1 {width: 30%;
-margin-left: 34%;}
+margin-left: 34%;
+border-style: dashed;
+color: saddlebrown;}
 
 #ima2 {width: 30%;
-margin-left: 34%;}
+margin-left: 34%;
+border-style: dashed;
+color: saddlebrown;}
